@@ -57,7 +57,7 @@ Reverse geocoding is the opposite: returning a list of places near a given latit
 
 ### Where did Pelias come from?
 
-Pelias was created in 2014 as an early project at [Mapzen](https://mapzen.com). After Mapzen's shutdown in 2017, Pelias is now [part of the Linux Foundation](https://www.linuxfoundation.org/press/press-release/mapzen-open-source-data-and-software-for-real-time-mapping-applications-to-become-a-linux-foundation-project).
+Pelias was created in 2014 as an early project at [Mapzen](https://mapzen.com). After Mapzen's shutdown in 2017, Pelias is maintained primarily by [Geocode Earth](https://geocode.earth), founded by the same ex-Mapzen employees who started it.
 
 ### How does it work?
 
