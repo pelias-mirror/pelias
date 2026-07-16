@@ -203,7 +203,11 @@ To try out Pelias quickly, use our [Docker](https://github.com/pelias/docker/) s
 
 ### Do you offer a free geocoding API?
 
-You can [sign up for a trial API key at Geocode Earth](https://geocode.earth). A commercial service has been operated by the core development team behind Pelias since 2014 (previously at search.mapzen.com). Discounts and free plans are available for free and open-source software projects.
+Pelias itself does not have API keys and is software you can run freely yourself.
+
+However, for those looking for a hosted option, you can [sign up for an API key at Geocode Earth](https://geocode.earth). Geocode Earth is a geocoding service with Pelias at its core, created by the maintainers of Pelias. Combined with our experience hosting Mapzen Search, we've been running geocoding services since 2014.
+
+Discounts and free plans are available for academic and open-source software projects.
 
 ### What's it built with?
 Pelias itself (the import pipelines and API) is written in [Node.js](https://nodejs.org/), which makes it highly
