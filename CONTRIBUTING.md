@@ -1,8 +1,8 @@
 Pelias can't succeed without contributions from community members like you! Contributions come in many different shapes and sizes. In this file we provide guidance around two of the most common types of contributions: opening issues and opening pull requests.
 
-# Community Values 
+# Community Values
 
-We ask that you are respectful when contributing to Pelias or engaging with our community. As a community, we appreciate the fact that contributors might be approaching the project from a different perspective and background. We hope that beginners as well as advanced users will be able to use and contribute back to Pelias. We want to encourage contributions and feedback from all over the world, which means that English might not be a contributor's native language, and sometimes we may encounter cultural differences. Contructive disagreements can be essential to moving a project forward, but disrespectful language or behavior will not be tolerated. 
+We ask that you are respectful when contributing to Pelias or engaging with our community. As a community, we appreciate the fact that contributors might be approaching the project from a different perspective and background. We hope that beginners as well as advanced users will be able to use and contribute back to Pelias. We want to encourage contributions and feedback from all over the world, which means that English might not be a contributor's native language, and sometimes we may encounter cultural differences. Constructive disagreements can be essential to moving a project forward, but disrespectful language or behavior will not be tolerated.
 
 Above all, be patient, be respectful, and be kind!
 
