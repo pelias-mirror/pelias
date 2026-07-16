@@ -217,27 +217,59 @@ search functionality, scalability, and sufficiently robust geospatial support.
 
 ### Contributing
 
-[![Gitter](https://badges.gitter.im/pelias/pelias.svg)](https://gitter.im/pelias/pelias?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+We built Pelias as an open source project not just because we believe that
+users should be able to view and play with the source code of tools they use,
+but because real, local knowledge is key for any global geospatial project.
 
-We built Pelias as an open source project not just because we believe that users should be able to view and play with
-the source code of tools they use, but to get the community involved in the project itself.
+Reports on what works and what doesn't, especially if it contains unique local
+knowledge are extremely helpful. Be sure to follow the issue templates so the
+team has everything we need to know to address the issue in the future.
 
-Especially with a geocoder with global coverage, it's just not possible for a small team to do it alone. We need you.
+Pull requests that fix small issues, improve performance, fix typos, etc
+are always welcome.
 
-Anything that we can do to make contributing easier, we want to know about.  Feel free to reach out to us via Github,
-[Gitter](https://gitter.im/pelias/pelias), [email](mailto:team@pelias.io), or [Twitter](https://twitter.com/pelias_geocoder).
- We'd love to help people get started working on Pelias, especially if you're
- new to open source or programming in general.
+Pull requests for larger issues are of course great too, but we really
+recommend you reach out to the core team _before_ you start doing that work.
+Pelias is a complex project. We find that unexpected large pull requests often
+have downsides or conflicts with our future roadmap that means they can never
+be merged. We want to make sure this doesn't happen to you!
 
-We have a list of [Good First Issues](https://github.com/search?q=org%3Apelias+label%3A%22good+first+issue%22&type=issues) for new contributors.
+#### AI Contribution Guidelines
 
-Both this [meta-repo](https://github.com/pelias/pelias/issues) and the [API service repo](https://github.com/pelias/api/issues) are worth looking at, as
-they're where most issues live. We also welcome reporting issues or suggesting
-improvements to our [documentation](https://github.com/pelias/documentation).
+The Pelias Core team sparingly, carefully and judiciously uses AI tools to
+improve the project. We don't mind if you use AI similarly to help you
+contribute, as long as you disclose it.
+
+However, **issues or pull requests generated primarily by AI with little human
+input are not welcome**.
+
+Contributions made completely by AI have essentially no value and do nothing
+but create noise and errors to be discovered and solved. Keep in mind the core
+team also has access to AI tools. So if your idea of helping is to one shot
+"build feature X for Pelias" and then send it to us, we could have done the
+same, except we also have experience and knowledge of our roadmap, what works,
+what doesn't, etc.
+
+The generation of code and issue descriptions is not the bottleneck for
+improvement of Pelias. Instead, it's the ability to reliably evaluate changes
+to make sure they push the project towards higher quality. This is the part
+where you and the core team, as humans can contribute more than AI ever could.
+
+We expect that anyone contributing to Pelias has a high level of understanding
+of the changes they are proposing.
+
+In particular, we recommend you _don't_ use AI to write massive pull request or
+issue descriptions. AI written text is usually verbose and full of hard to spot
+errors or irrelevant info. We'd prefer something written by you, even if it's
+imperfect in its own way.
+
+#### Pelias Core team
 
 The current Pelias team can be found on Github as
 [missinglink](https://github.com/missinglink) and
 [orangejulius](https://github.com/orangejulius).
+
+To reach out to the core team in private, you can email us at [team@pelias.io](mailto:team@pelias.io).
 
 Members emeritus include:
 * [trescube](https://github.com/trescube)
